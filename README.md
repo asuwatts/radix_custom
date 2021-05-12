@@ -1,15 +1,8 @@
-Radix Layouts
+Custom Radix Layouts
 ===
-Responsive Panels layouts for Panopoly and the Radix theme.
+Provides the "Beast," "Brenham Plus," and "Brenham Plus Flipped" layouts that are missing from the official Drupal 8/9 Radix module.
 
-## Features
-
-* Responsive out of the box
-* Works with Panopoly, Panels IPE, and Panelizer
-* Easily extendable to support new layouts
-* Support for Responsive utility classes (You can easily hide and show panes based on mobile, tablet or desktop viewports)
-
-## Which version?
-
-* For Radix 2.x, use Radix Layouts 7.x-2.x.
-* For Radix 3.x, use Radix Layouts 7.x-3.x.
+Requirements
+---
+To work properly, this module depends on the Radix Layouts module, version 8.4-1 (or newer):  
+`composer require 'drupal/radix_layouts:^4.1'`
