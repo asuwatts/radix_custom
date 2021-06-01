@@ -1,5 +1,5 @@
 {
-  "name": "travisbutterfield/radix_custom",
+  "name": "asuwatts/radix_custom",
   "description": "A Drupal 8/9 custom module that adds more layouts to the Radix Layouts library.",
   "type": "drupal-custom-module",
   "license": "GPL-2.0-or-later",
