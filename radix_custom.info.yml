@@ -3,6 +3,6 @@ name: Radix Custom Layouts
 description: A customized version of Radix Layouts 8.4.1 for Webspark 2
 package: Layout
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 dependencies:
   - drupal:layout_discovery
